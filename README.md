@@ -150,5 +150,5 @@ This project follows the *SDLC* methodology to ensure a well-organized and high-
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/peer-tutoring-system.git
+   git clone https://github.com/tamim2589/peer-tutoring-system.git
    cd peer-tutoring-system
